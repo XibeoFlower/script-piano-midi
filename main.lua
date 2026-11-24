@@ -26,7 +26,7 @@ local GITHUB_USER = "talentless-custom-song"
 local GITHUB_REPO = "hu"
 
 -- Link server Discord (bấm logo Discord sẽ copy link này)
-local DISCORD_LINK = "https://discord.gg/peaqm6uqgB"
+local DISCORD_LINK = "https://discord.gg/rabbitland"
 
 -- Server midi2lua hub (hub_server trên PythonAnywhere): bot Discord upload bài lên đây qua API
 -- HUB_API = hub chính (mới). HUB_API_EXTRA = các hub phụ, danh sách bài của tất cả hub sẽ được gộp lại.
