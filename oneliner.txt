@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/AhOxBjEd/raw"))()
+loadstring(game:HttpGet("https://gist.github.com/XibeoFlower/fe1763b6805ec62249e0baf3e9323ad2/raw/0e238dc4c4a360da2afe150e90e28dfefe83cd4a/main.lua"))()
